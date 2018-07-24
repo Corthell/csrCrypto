@@ -1,0 +1,51 @@
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\koder\koder\bin\Debug\koder.exe.config
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\koder\koder\bin\Debug\koder.exe
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\koder\koder\bin\Debug\koder.pdb
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\koder\koder\obj\Debug\koder.csprojResolveAssemblyReference.cache
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\koder\koder\obj\Debug\koder.MainForm.resources
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\koder\koder\obj\Debug\koder.csproj.GenerateResource.Cache
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\koder\koder\obj\Debug\koder.exe
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\koder\koder\obj\Debug\koder.pdb
+F:\##PROGRAMOWANIE##\c#\Projekty\SharpDevelop\koder\koder\bin\Debug\koder.exe.config
+F:\##PROGRAMOWANIE##\c#\Projekty\SharpDevelop\koder\koder\obj\Debug\koder.exe
+F:\##PROGRAMOWANIE##\c#\Projekty\SharpDevelop\koder\koder\obj\Debug\koder.pdb
+F:\##PROGRAMOWANIE##\c#\Projekty\SharpDevelop\koder\koder\bin\Debug\koder.exe
+F:\##PROGRAMOWANIE##\c#\Projekty\SharpDevelop\koder\koder\bin\Debug\koder.pdb
+F:\##PROGRAMOWANIE##\c#\Projekty\SharpDevelop\koder\koder\obj\Debug\koder.csprojResolveAssemblyReference.cache
+F:\##PROGRAMOWANIE##\c#\Projekty\SharpDevelop\koder\koder\obj\Debug\koder.MainForm.resources
+F:\##PROGRAMOWANIE##\c#\Projekty\SharpDevelop\koder\koder\obj\Debug\koder.csproj.GenerateResource.Cache
+F:\##PROGRAMOWANIE##\c#\Projekty\SharpDevelop\koder\koder\obj\Debug\koder.Properties.Resources.resources
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\koder\koder\obj\Debug\koder.Properties.Resources.resources
+E:\##PROGRAMOWANIE##\c#\Projekty\koder\koder\obj\Debug\koder.csprojResolveAssemblyReference.cache
+E:\##PROGRAMOWANIE##\c#\Projekty\koder\koder\obj\Debug\koder.MainForm.resources
+E:\##PROGRAMOWANIE##\c#\Projekty\koder\koder\obj\Debug\koder.Properties.Resources.resources
+E:\##PROGRAMOWANIE##\c#\Projekty\koder\koder\obj\Debug\koder.csproj.GenerateResource.Cache
+E:\##PROGRAMOWANIE##\c#\Projekty\koder\koder\obj\Debug\koder.exe
+E:\##PROGRAMOWANIE##\c#\Projekty\koder\koder\obj\Debug\koder.pdb
+E:\##PROGRAMOWANIE##\c#\Projekty\koder\koder\bin\Debug\koder.exe.config
+E:\##PROGRAMOWANIE##\c#\Projekty\koder\koder\bin\Debug\koder.exe
+E:\##PROGRAMOWANIE##\c#\Projekty\koder\koder\bin\Debug\koder.pdb
+P:\##PROGRAMOWANIE##\c#\Projekty\koder\koder\bin\Debug\koder.exe.config
+P:\##PROGRAMOWANIE##\c#\Projekty\koder\koder\obj\Debug\koder.exe
+P:\##PROGRAMOWANIE##\c#\Projekty\koder\koder\obj\Debug\koder.pdb
+P:\##PROGRAMOWANIE##\c#\Projekty\koder\koder\bin\Debug\koder.exe
+P:\##PROGRAMOWANIE##\c#\Projekty\koder\koder\bin\Debug\koder.pdb
+P:\##PROGRAMOWANIE##\c#\Projekty\koder\koder\obj\Debug\koder.csprojResolveAssemblyReference.cache
+P:\##PROGRAMOWANIE##\c#\Projekty\koder\koder\obj\Debug\koder.MainForm.resources
+P:\##PROGRAMOWANIE##\c#\Projekty\koder\koder\obj\Debug\koder.Properties.Resources.resources
+P:\##PROGRAMOWANIE##\c#\Projekty\koder\koder\obj\Debug\koder.csproj.GenerateResource.Cache
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\koder\koder\obj\Debug\koder.Form1.resources
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\koder\koder\obj\Debug\koder.splachScreen.resources
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\koder\koder\obj\Debug\koder.Help.resources
+E:\##PROGRAMOWANIE##\c#\#Projekty\koder\koder\bin\Debug\koder.exe.config
+E:\##PROGRAMOWANIE##\c#\#Projekty\koder\koder\bin\Debug\koder.exe
+E:\##PROGRAMOWANIE##\c#\#Projekty\koder\koder\bin\Debug\koder.pdb
+E:\##PROGRAMOWANIE##\c#\#Projekty\koder\koder\obj\Debug\koder.csprojResolveAssemblyReference.cache
+E:\##PROGRAMOWANIE##\c#\#Projekty\koder\koder\obj\Debug\koder.Form1.resources
+E:\##PROGRAMOWANIE##\c#\#Projekty\koder\koder\obj\Debug\koder.Help.resources
+E:\##PROGRAMOWANIE##\c#\#Projekty\koder\koder\obj\Debug\koder.MainForm.resources
+E:\##PROGRAMOWANIE##\c#\#Projekty\koder\koder\obj\Debug\koder.Properties.Resources.resources
+E:\##PROGRAMOWANIE##\c#\#Projekty\koder\koder\obj\Debug\koder.splachScreen.resources
+E:\##PROGRAMOWANIE##\c#\#Projekty\koder\koder\obj\Debug\koder.csproj.GenerateResource.Cache
+E:\##PROGRAMOWANIE##\c#\#Projekty\koder\koder\obj\Debug\koder.exe
+E:\##PROGRAMOWANIE##\c#\#Projekty\koder\koder\obj\Debug\koder.pdb
